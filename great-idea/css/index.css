@@ -266,7 +266,13 @@ footer {
   margin-bottom: 30px;
 }
 
+.reverse-wrap-two {
+  display: flex;
+  flex-flow: row-reverse wrap;
+}
+
 .light-grey-box {
+  width: 45%;
   padding: 20px;
   margin: 20px;
   border: 2px solid gray;
