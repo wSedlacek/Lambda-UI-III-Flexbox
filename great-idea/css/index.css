@@ -165,7 +165,7 @@ h5 {
 
 body {
   margin: 40px 75px;
-  min-width: 1160px;
+  min-width: 920px;
 }
 
 h2 {
@@ -185,7 +185,7 @@ nav {
 nav .links {
   width: 700px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 
