@@ -265,3 +265,10 @@ footer {
   height: 300px;
   margin-bottom: 30px;
 }
+
+.light-grey-box {
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid gray;
+  background-color: whitesmoke;
+}
