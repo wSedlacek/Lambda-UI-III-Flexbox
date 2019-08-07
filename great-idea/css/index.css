@@ -243,7 +243,11 @@ section {
   justify-content: space-around;
 }
 
-section span {
+.half {
+  width: 48%;
+}
+
+.third {
   width: 30%;
 }
 
