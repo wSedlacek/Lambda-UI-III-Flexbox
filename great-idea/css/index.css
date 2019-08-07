@@ -290,3 +290,11 @@ footer {
   border-color: gray;
   background-color: whitesmoke;
 }
+
+ul {
+  list-style-type: square;
+}
+
+ul li {
+  margin: 20px;
+}
