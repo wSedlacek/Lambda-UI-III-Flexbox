@@ -302,3 +302,8 @@ ul {
 ul li {
   margin: 20px;
 }
+
+.fill {
+  display: flex;
+  justify-content: space-between;
+}
