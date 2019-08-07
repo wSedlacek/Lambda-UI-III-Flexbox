@@ -233,17 +233,13 @@ hr {
   margin: 50px 0;
 }
 
+section {
+  display: flex;
+  justify-content: space-around;
+}
+
 section span {
-  display: inline-block;
-  height: 120px;
-}
-
-section.child-2 span {
-  width: 49%;
-}
-
-section.child-3 span {
-  width: 33%;
+  width: 30%;
 }
 
 .middle-img {
