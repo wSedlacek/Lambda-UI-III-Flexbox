@@ -163,6 +163,10 @@ h5 {
   height: 35px;
 }
 
+.rounded {
+  border-radius: 5px;
+}
+
 body {
   margin: 40px 75px;
   min-width: 920px;
@@ -271,10 +275,18 @@ footer {
   flex-flow: row-reverse wrap;
 }
 
-.light-grey-box {
+.box {
   width: 45%;
   padding: 20px;
   margin: 20px;
-  border: 2px solid gray;
+  border: 2px solid;
+}
+
+.box * {
+  margin: 15px 0;
+}
+
+.light-grey {
+  border-color: gray;
   background-color: whitesmoke;
 }
