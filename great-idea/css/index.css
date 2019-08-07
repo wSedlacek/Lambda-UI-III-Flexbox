@@ -257,3 +257,8 @@ footer {
   text-align: center;
   margin: 50px 0 80px;
 }
+
+/* Services */
+.services-header-img {
+  width: 100%;
+}
